@@ -1,0 +1,65 @@
+* {
+	scroll-behavior: smooth;
+}
+
+.navbar {
+	background-color: rgb(226, 39, 129);
+	color: white;
+}
+
+.navdaa {
+	background-color: rgb(226, 39, 129);
+	color: white;
+}
+
+.user {
+	padding: 15px;
+}
+
+.user .card-title .btn {
+	border-color: rgb(226, 39, 129);
+	background-color: transparent;
+	color: rgb(226, 39, 129);
+}
+
+.user .card-title .btn:hover {
+	background-color: rgb(226, 39, 129);
+	color: rgb(255, 255, 255);
+}
+
+.da {
+	background-color: rgb(226, 39, 129);
+	color: rgb(255, 255, 255);
+}
+
+.da:hover {
+	background-color: rgb(246, 110, 175);
+	color: rgb(255, 255, 255);
+}
+
+.usfor {
+	padding: 15px;
+}
+
+.daa {
+	background-color: rgb(226, 39, 129);
+	color: rgb(255, 255, 255);
+}
+
+.daa:hover {
+	background-color: rgb(246, 110, 175);
+	color: rgb(255, 255, 255);
+}
+
+@media (min-width: 320px) and (max-width: 1440px) {
+
+	.da {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+
+	.rauda a {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+}
