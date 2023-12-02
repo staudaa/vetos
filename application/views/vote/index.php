@@ -1,4 +1,4 @@
-<div class="content d-flex align-items-center mt-3">
+<div class="content">
 	<div class="container">
 		<div class="alert alert-secondary alert-dismissible fade show" role="alert" style="width: 95%;">
 			<strong>

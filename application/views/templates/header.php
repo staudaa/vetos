@@ -15,7 +15,7 @@
 
 <body>
 
-	<nav class="navbar navbar-expand-lg navbar-dark">
+	<nav class="navbar navbar-expand-lg fixed-top navbar-dark">
 		<div class="container">
 			<a class="navbar-brand" href="#">
 				<h3>v<b>E</b>tos</h3>

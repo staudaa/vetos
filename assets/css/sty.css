@@ -12,6 +12,11 @@
 	color: white;
 }
 
+.content {
+	min-height: 100vh;
+	margin-top: 7%;
+}
+
 .user {
 	padding: 15px;
 }

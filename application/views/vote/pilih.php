@@ -1,4 +1,4 @@
-<div class="content mt-5 ">
+<div class="content">
     <div class="container d-flex justify-content-center">
         <div class="col-md-6">
             <div class="card border-danger">

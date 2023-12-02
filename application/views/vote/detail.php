@@ -1,4 +1,4 @@
-<div class="content d-flex justify-content-center mt-5">
+<div class="content">
     <div class="container">
         <div class="card mb-3">
             <div class="row g-0">
